@@ -3,6 +3,12 @@ This area is for the calculators, for now, I hope you like it and hope some of t
 Add-ins for the Casio **fx-CG50**, each tested on the real calculator. Download the `.g3a` from a
 project's Releases page and copy it to the calculator in USB Flash mode.
 
+### [C47](https://github.com/fxprgm/c47-cg)
+
+<img src="https://raw.githubusercontent.com/fxprgm/c47-cg/main/docs/images/stack.png" width="396" alt="C47 on the fx-CG50: 20! exact, pi and the square root of 2 to 34 digits, 3+4i in polar form">
+
+The C47 RPN calculator, in its R47 form: 34-digit decimal maths, exact big integers, complex numbers, programs, equations and graphs, with the R47's own fonts.
+
 ### [FlashDump](https://github.com/fxprgm/flashdump-cg)
 
 <img src="https://raw.githubusercontent.com/fxprgm/.github/main/profile/flashdump.png" width="396" alt="FlashDump on the fx-CG50">
